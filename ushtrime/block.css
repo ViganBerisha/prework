@@ -1,0 +1,23 @@
+.menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: dodgerblue;
+
+  }
+  .menu li {  
+    border-right: 1px solid rgba(255,255,255,0.5);
+    margin: 0;
+  
+    display: inline-block;
+  }
+  .menu a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    font-size: 15px;
+  }
+  
