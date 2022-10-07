@@ -30,7 +30,7 @@ textarea {
     height: 140px;
 }
 button {
-    background: orangered;
+    background: black;
     color: #fff;
     border-radius: 5px;
     padding: 20px 50px;
@@ -40,5 +40,5 @@ button {
     transition: 0.5s;
 }
 button:hover {
-    background: crimson;
+    background: blue;
 }
